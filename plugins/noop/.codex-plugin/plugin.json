@@ -1,0 +1,5 @@
+{
+  "name": "noop",
+  "version": "1.0.0",
+  "description": "A plugin that does nothing, for testing Arbor's Codex plugin sync."
+}

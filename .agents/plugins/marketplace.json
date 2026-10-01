@@ -1,0 +1,11 @@
+{
+  "name": "arbor-codex-test",
+  "plugins": [
+    {
+      "name": "noop",
+      "source": { "source": "local", "path": "./plugins/noop" },
+      "policy": { "installation": "AVAILABLE", "authentication": "ON_INSTALL" },
+      "category": "Developer Tools"
+    }
+  ]
+}
